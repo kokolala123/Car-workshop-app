@@ -1,4 +1,4 @@
-# Car-workshop-app
+# Car-ing app
 
 Developed an app for auto workshop owners and employees to monitor the workshop activities such as booking, creating and maintaining tickets for car repair, checking available slots for repair, and employees’s working calendar.  
 •	Created the user interface using the Qt framework, focusing on intuitive navigation and aesthetic design to improve user experience with Qmake, Qt Widget designer and Qt Creator.
